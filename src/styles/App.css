@@ -1,0 +1,19 @@
+body {
+  width: 100%;
+}
+.App {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+}
+p {
+  position: absolute;
+  bottom: 0;
+  margin: 0 auto;
+  padding: 3px;
+  color: white;
+  font-size: 12px;
+}
