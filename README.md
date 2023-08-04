@@ -6,12 +6,12 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
+</br></br>
 This React project includes two components that facilitate form management and validation. The "General" component provides basic form fields for email, age, and password validation.The "Portal" component offers an advanced user registration form, handling fields like username, university selection, and terms acceptance.
 
 In the "General" form, users can fill in fields for email, age, password, and password confirmation, with basic validation rules applied. The "Portal" form, on the other hand, enforces more complex validation, including username, university selection, and acceptance of terms.
 
-<i>The project utilizes popular React libraries like "formik" and "yup" for form management and validation. It also leverages React Router DOM for smooth transitions between pages.</i>
+**The project utilizes popular React libraries like "formik" and "yup" for form management and validation. It also leverages React Router DOM for smooth transitions between pages.</i>*
 
 # Project Setup and Execution:
 1. Clone this project to your GitHub account or download the project's zip file.
