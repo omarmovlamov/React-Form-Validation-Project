@@ -11,7 +11,7 @@ This React project includes two components that facilitate form management and v
 
 In the "General" form, users can fill in fields for email, age, password, and password confirmation, with basic validation rules applied. The "Portal" form, on the other hand, enforces more complex validation, including username, university selection, and acceptance of terms.
 
-* The project utilizes popular React libraries like "formik" and "yup" for form management and validation. It also leverages React Router DOM for smooth transitions between pages.
+<mark>The project utilizes popular React libraries like "formik" and "yup" for form management and validation. It also leverages React Router DOM for smooth transitions between pages.</mark>
 
 # Project Setup and Execution:
 1. Clone this project to your GitHub account or download the project's zip file.
