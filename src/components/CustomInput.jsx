@@ -15,5 +15,4 @@ function CustomInput({ label, ...props }) {
     </>
   );
 }
-
 export default CustomInput;
