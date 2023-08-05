@@ -84,5 +84,4 @@ function General() {
     </form>
   );
 }
-
 export default General;
