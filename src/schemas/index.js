@@ -25,7 +25,6 @@ export const basicSchema = yup.object().shape({
     .oneOf([yup.ref("password")], "Passwords do not match")
     .required("Password needs to be re-entered"),
 });
-
 export const advancedSchema = yup.object().shape({
   username: yup
     .string()
